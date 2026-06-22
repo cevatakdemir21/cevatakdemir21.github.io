@@ -61,4 +61,4 @@ initializing ads. The privacy policy's consent section assumes this is wired up.
 
 - All shared styling is in `style.css` (brand blue `#0088FF`, light + dark).
 - Update the "Last updated" date in the legal pages when you change them.
-- Swap `cevat.akdemir21@gmail.com` everywhere if you create a dedicated support address.
+- Swap `cevat.akdmrr@gmail.com` everywhere if you create a dedicated support address.
